@@ -1,0 +1,7 @@
+import:
+ - ~/.config/alacritty/themes/themes/gruvbox_material_medium_dark.yaml
+
+window:
+  decorations: None # no top bar
+  startup_mode: "Fullscreen" # Maximize/Fullscreen when startup
+
